@@ -21,3 +21,9 @@ We used a multiple output linear regression model. The model trains using all of
 # Results
 Using less than around 50 Mordred desciptors, the model poorly predicts all 17 core mordred  descriptors.
 
+# Try it out!
+To run the model:
+1. Download the mordred compound sets (1 through 3) and place them in a data/ folder
+2. Open the src/config.py folder and change the data_path and results_path.
+3. Run the main function in src/thresholding.py.
+4. To visualize the results run visualization.ipynb on jupyter notebook.
