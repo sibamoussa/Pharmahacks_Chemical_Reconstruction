@@ -30,4 +30,4 @@ To run the model:
 1. Download the mordred compound sets (1 through 3) and place them in a data/ folder
 2. Open the src/config.py folder and change the data_path and results_path.
 3. Run the main function in src/thresholding.py.
-4. To visualize the results run visualization.ipynb on jupyter notebook.
+4. To visualize, run results_visualization.ipynb on jupyter notebook.
