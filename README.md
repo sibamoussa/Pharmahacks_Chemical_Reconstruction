@@ -20,6 +20,10 @@ We used a multiple output linear regression model. The model trains using all of
 
 # Results
 Using less than around 50 Mordred desciptors, the model poorly predicts all 17 core mordred  descriptors.
+<p align="center">
+<img src="https://github.com/sibamoussa/Pharmahacks_Chemical_Reconstruction/blob/master/img/results.png" width="600"/>
+</p>
+
 
 # Try it out!
 To run the model:
